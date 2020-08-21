@@ -5,7 +5,7 @@
 - ⌘ &nbsp;  I am interested in concurrency, distributed systems, performance engineering
 - 🎓 &nbsp;  I graduated from an [Inria](https://www.inria.fr/en/centre-inria-sophia-antipolis-mediterranee) sponsored [masters degree](http://unice.fr/en) in 2015 
 - 🤗 &nbsp;  I love the odd duo of functional programming and Java
-- 👨🏻‍💻  &nbsp;  Currently working at [Helpshift](https://www.helpshift.com/) as a Backend engineer 
+- 👨🏻‍💻  &nbsp;  Currently working at [Helpshift](https://www.helpshift.com/) as a backend engineer 
 
 ### Blog posts 📗 📚 📖
 
