@@ -10,6 +10,7 @@
 ### Blog posts 📗 📚 📖
 
 <!-- BLOG-POST-LIST:START -->
+- [Load Shedding in Web Services](https://medium.com/helpshift-engineering/load-shedding-in-web-services-9fa8cfa1ffe4?source=rss-c69a7b7ed0c5------2)
 - [The Convoluted Magic of Leiningen Test Selectors](https://medium.com/helpshift-engineering/the-convoluted-magic-of-leiningen-test-selectors-2eb6c452dfcf?source=rss-c69a7b7ed0c5------2)
 - [Killing me softly: Graceful shutdowns in Clojure](https://medium.com/helpshift-engineering/achieving-graceful-restarts-of-clojure-services-b3a3b9c1d60d?source=rss-c69a7b7ed0c5------2)
 - [On the testability of Ring Middlewares in Clojure](https://medium.com/helpshift-engineering/on-the-testability-of-ring-middlewares-in-clojure-6795eae60f2a?source=rss-c69a7b7ed0c5------2)
