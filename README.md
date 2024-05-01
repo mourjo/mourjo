@@ -10,6 +10,8 @@
 ### Blog posts 📗 📚 📖
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking observability: Structured logging in Spring Boot](https://medium.com/booking-com-development/unlocking-observability-structured-logging-in-spring-boot-c81dbabfb9e7?source=rss-c69a7b7ed0c5------2)
+- [Building a Secure Web Chat With Redis, mTLS and GCP](https://medium.com/@mourjo_sen/building-a-secure-web-chat-with-redis-mtls-and-gcp-e52007ba362d?source=rss-c69a7b7ed0c5------2)
 - [Load Shedding in Clojure](https://medium.com/helpshift-engineering/load-shedding-in-clojure-d4857ce11588?source=rss-c69a7b7ed0c5------2)
 - [Load Shedding in Web Services](https://medium.com/helpshift-engineering/load-shedding-in-web-services-9fa8cfa1ffe4?source=rss-c69a7b7ed0c5------2)
 - [The Convoluted Magic of Leiningen Test Selectors](https://medium.com/helpshift-engineering/the-convoluted-magic-of-leiningen-test-selectors-2eb6c452dfcf?source=rss-c69a7b7ed0c5------2)
