@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 - 😍 &nbsp; I write code and love to [write about code](https://mourjo.me/blog)!
-- 🇮🇳 &nbsp;  I grew up in India 🇮🇳, learnt Software Engineering in France 🇫🇷 and living in the Netherlands 🇳🇱
+- 🇮🇳 &nbsp;  I grew up in India 🇮🇳, learnt Software Engineering in France 🇫🇷 and live in the Netherlands 🇳🇱
 - ⌘ &nbsp;  I am interested in concurrency, distributed systems, performance engineering
 - 🎓 &nbsp;  I graduated from an [Inria](https://www.inria.fr/en/centre-inria-sophia-antipolis-mediterranee) sponsored [masters degree](http://unice.fr/en) in 2015 
 - 🤗 &nbsp;  I love the odd duo of functional programming and Java
