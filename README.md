@@ -10,9 +10,9 @@
 ### Blog posts 📗 📚 📖
 
 <!-- BLOG-POST-LIST:START -->
-- [Three reasons why developers should use DuckDB](https://medium.com/@mourjo_sen/three-reasons-why-developers-should-use-duckdb-0884c8e9f02a?source=rss-c69a7b7ed0c5------2)
+- [Three reasons why developers should use DuckDB](https://mourjo.medium.com/three-reasons-why-developers-should-use-duckdb-0884c8e9f02a?source=rss-c69a7b7ed0c5------2)
 - [Unlocking observability: Structured logging in Spring Boot](https://medium.com/booking-com-development/unlocking-observability-structured-logging-in-spring-boot-c81dbabfb9e7?source=rss-c69a7b7ed0c5------2)
-- [Deep-dive on mTLS with Redis on GCP](https://medium.com/@mourjo_sen/building-a-secure-web-chat-with-redis-mtls-and-gcp-e52007ba362d?source=rss-c69a7b7ed0c5------2)
+- [Deep-dive on mTLS with Redis on GCP](https://mourjo.medium.com/building-a-secure-web-chat-with-redis-mtls-and-gcp-e52007ba362d?source=rss-c69a7b7ed0c5------2)
 - [Load Shedding in Clojure](https://medium.com/helpshift-engineering/load-shedding-in-clojure-d4857ce11588?source=rss-c69a7b7ed0c5------2)
 - [Load Shedding in Web Services](https://medium.com/helpshift-engineering/load-shedding-in-web-services-9fa8cfa1ffe4?source=rss-c69a7b7ed0c5------2)
 - [The Convoluted Magic of Leiningen Test Selectors](https://medium.com/helpshift-engineering/the-convoluted-magic-of-leiningen-test-selectors-2eb6c452dfcf?source=rss-c69a7b7ed0c5------2)
@@ -20,11 +20,11 @@
 - [On the testability of Ring Middlewares in Clojure](https://medium.com/helpshift-engineering/on-the-testability-of-ring-middlewares-in-clojure-6795eae60f2a?source=rss-c69a7b7ed0c5------2)
 - [A Study in Parallelising Tests](https://medium.com/helpshift-engineering/a-study-in-parallelising-tests-b5253817beae?source=rss-c69a7b7ed0c5------2)
 - [ScyllaDB: The Helpshift Story](https://medium.com/helpshift-engineering/scylladb-the-helpshift-story-3d332bf80ce2?source=rss-c69a7b7ed0c5------2)
-- [A detailed comparison between autocompletion strategies in ElasticSearch](https://medium.com/@mourjo_sen/a-detailed-comparison-between-autocompletion-strategies-in-elasticsearch-66cb9e9c62c4)
+- [A detailed comparison between autocompletion strategies in ElasticSearch](https://mourjo.medium.com/a-detailed-comparison-between-autocompletion-strategies-in-elasticsearch-66cb9e9c62c4)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ &nbsp; [More blog posts...](http://mourjo.me/blog)
 
 ### Contact me at:
 
-[<img width="26px" src="https://img.icons8.com/wired/64/000000/medium-new.png"/>](https://medium.com/@mourjo_sen) [<img width="26px" src="https://img.icons8.com/fluent/48/000000/github.png"/>](https://github.com/mourjo) [<img width="26px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>](https://twitter.com/mourjo_sen) [<img width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](http://in.linkedin.com/in/mourjo) [<img width="26px" src="https://img.icons8.com/ios-filled/50/000000/mobile-email.png"/>](mailto:hello@mourjo.me)
+[<img width="26px" src="https://img.icons8.com/wired/64/000000/medium-new.png"/>](https://mourjo.medium.com) [<img width="26px" src="https://img.icons8.com/fluent/48/000000/github.png"/>](https://github.com/mourjo) [<img width="26px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>](https://twitter.com/mourjo_sen) [<img width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](http://in.linkedin.com/in/mourjo) [<img width="26px" src="https://img.icons8.com/ios-filled/50/000000/mobile-email.png"/>](mailto:hello@mourjo.me)
