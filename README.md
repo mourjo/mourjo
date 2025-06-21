@@ -10,6 +10,7 @@
 ### Blog posts 📗 📚 📖
 
 <!-- BLOG-POST-LIST:START -->
+- [​​Applying Flow Metrics to Design Resilient Microservices](https://www.infoq.com/articles/flow-metrics-microservices/)
 - [Three reasons why developers should use DuckDB](https://mourjo.medium.com/three-reasons-why-developers-should-use-duckdb-0884c8e9f02a?source=rss-c69a7b7ed0c5------2)
 - [Unlocking observability: Structured logging in Spring Boot](https://medium.com/booking-com-development/unlocking-observability-structured-logging-in-spring-boot-c81dbabfb9e7?source=rss-c69a7b7ed0c5------2)
 - [Deep-dive on mTLS with Redis on GCP](https://mourjo.medium.com/building-a-secure-web-chat-with-redis-mtls-and-gcp-e52007ba362d?source=rss-c69a7b7ed0c5------2)
