@@ -5,7 +5,7 @@
 - ⌘ &nbsp;  I am interested in concurrency, distributed systems, performance engineering
 - 🎓 &nbsp;  I graduated from an [Inria](https://www.inria.fr/en/centre-inria-sophia-antipolis-mediterranee) sponsored [masters degree](http://unice.fr/en) in 2015 
 - 🤗 &nbsp;  I love the odd duo of functional programming and Java
-- 👨🏻‍💻  &nbsp;  I work as a Senior Software Engineer at [Booking.com](https://blog.booking.com/), previously at [Stripe](https://stripe.com), [Gojek](https://www.gojek.io) and [Helpshift](https://www.helpshift.com/) 
+- 👨🏻‍💻  &nbsp;  I work as a Staff Software Engineer at [Booking.com](https://blog.booking.com/), previously at [Stripe](https://stripe.com), [Gojek](https://www.gojek.io) and [Helpshift](https://www.helpshift.com/) 
 
 ### Blog posts 📗 📚 📖
 
