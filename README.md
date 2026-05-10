@@ -6,7 +6,7 @@ I'm a Staff Software Engineer at Booking.com in Amsterdam and a software artisan
 
 I speak and write about resilient microservices, property-based testing, and Diagram Driven Development. My articles for InfoQ have reached over 80k readers, and I regularly present at international conferences.
 
-I have previously worked at Stripe, Gojek, and Helpshift. I hold a masters from Inria (the national research institute in France) and enjoy bridging the gap between functional programming and Java.
+I have previously worked at Stripe, Gojek, and Helpshift. I hold a masters from Inria (the national research institute in France) and enjoy bridging the gap between social and technical systems.
 
 # Talks
 
