@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Bonjour! 👋
 
 I'm a Staff Software Engineer at Booking.com in Amsterdam and a software artisan at heart. I grew up in India and found my calling for software engineering while living in France.
 
