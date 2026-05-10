@@ -1,4 +1,4 @@
-![Banner](banner.jpg)
+![Banner](https://mourjo.me/resources/images/banner.jpg)
 
 # Bonjour! 👋
 
