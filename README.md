@@ -1,10 +1,10 @@
 ### Hi there! 👋
 
-I'm a Staff Software Engineer at Booking.com in Amsterdam. I grew up in India and spent some formative years in France, which is where I really got into software engineering. I like to think of myself as a software artisan — I care about the craft and the long-term health of what we build.
+I'm a Staff Software Engineer at Booking.com in Amsterdam and a software artisan at heart. I grew up in India and found my calling for software engineering while living in France.
 
-These days, I'm mostly focused on resilient microservices and property-based testing. I also write for InfoQ (my articles have reached over 80k readers) and speak at conferences about things like Diagram Driven Development. 
+I speak and write about resilient microservices, property-based testing, and Diagram Driven Development. My articles for InfoQ have reached over 80k readers, and I regularly present at international conferences.
 
-I've previously spent time at Stripe, Gojek, and Helpshift. I have a masters from Inria (2015) and a particular fondness for combining functional programming patterns with Java.
+I have previously worked at Stripe, Gojek, and Helpshift. I hold a masters from Inria (the national research institute in France) and enjoy bridging the gap between functional programming and Java.
 
 ### Talks
 
