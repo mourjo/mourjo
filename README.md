@@ -17,6 +17,8 @@ I have previously worked at Stripe, Gojek, and Helpshift. I hold a masters from 
 - [Building Resilient Services in Clojure](https://www.youtube.com/watch?v=hII32IRXbAE) — Online, Dec 2021
 - [Writing a fair task execution framework](https://www.youtube.com/watch?v=oonmTibQgLo) — Pune, Feb 2019
 
+➡️ &nbsp; [More talks...](https://mourjo.me/talks)
+
 ### Blogs
 
 - [Beyond Accidental Quality: Finding Hidden Bugs with Generative Testing](https://www.infoq.com/articles/generative-testing/) — InfoQ, Oct 2025
