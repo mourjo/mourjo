@@ -17,7 +17,7 @@ I have previously worked at Stripe, Gojek, and Helpshift. I hold a masters from 
 - [Building Resilient Services in Clojure](https://www.youtube.com/watch?v=hII32IRXbAE) — Online, Dec 2021
 - [Writing a fair task execution framework](https://www.youtube.com/watch?v=oonmTibQgLo) — Pune, Feb 2019
 
-➡️ &nbsp; [More talks...](https://mourjo.me/talks)
+➡️ &nbsp; [More talks](https://mourjo.me/talks)
 
 ### Blogs
 
@@ -28,7 +28,7 @@ I have previously worked at Stripe, Gojek, and Helpshift. I hold a masters from 
 - [Deep-dive on mTLS with Redis on GCP](https://mourjo.medium.com/building-a-secure-web-chat-with-redis-mtls-and-gcp-e52007ba362d?source=mourjo.me) — Medium, Feb 2023
 - [Load Shedding in Clojure](https://mourjo.medium.com/load-shedding-in-clojure-d4857ce11588?source=mourjo.me) — Medium, Sep 2020
 
-➡️ &nbsp; [More blog posts...](https://mourjo.medium.com)
+➡️ &nbsp; [More blog posts](https://mourjo.medium.com)
 
 ### Contact me at:
 
