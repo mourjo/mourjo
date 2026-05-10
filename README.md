@@ -1,31 +1,32 @@
 ### Hi there! 👋
 
-- 😍 &nbsp; I write code and love to [write about code](https://mourjo.me/blog)!
-- 🇮🇳 &nbsp;  I grew up in India 🇮🇳, learnt Software Engineering in France 🇫🇷 and live in the Netherlands 🇳🇱
-- ⌘ &nbsp;  I am interested in concurrency, distributed systems, performance engineering
-- 🎓 &nbsp;  I graduated from an [Inria](https://www.inria.fr/en/centre-inria-sophia-antipolis-mediterranee) sponsored [masters degree](http://unice.fr/en) in 2015 
-- 🤗 &nbsp;  I love the odd duo of functional programming and Java
-- 👨🏻‍💻  &nbsp;  I work as a Staff Software Engineer at [Booking.com](https://blog.booking.com/), previously at [Stripe](https://stripe.com), [Gojek](https://www.gojek.io) and [Helpshift](https://www.helpshift.com/) 
+I'm a Staff Software Engineer at Booking.com in Amsterdam. I grew up in India and spent some formative years in France, which is where I really got into software engineering. I like to think of myself as a software artisan — I care about the craft and the long-term health of what we build.
 
-### Blog posts 📗 📚 📖
+These days, I'm mostly focused on resilient microservices and property-based testing. I also write for InfoQ (my articles have reached over 80k readers) and speak at conferences about things like Diagram Driven Development. 
 
-<!-- BLOG-POST-LIST:START -->
-- [Property Based Testing to Preseve Invariants](https://www.youtube.com/watch?v=5tCzdkPPX_s)
-- [​​Applying Flow Metrics to Design Resilient Microservices](https://www.infoq.com/articles/flow-metrics-microservices/)
-- [Three reasons why developers should use DuckDB](https://mourjo.medium.com/three-reasons-why-developers-should-use-duckdb-0884c8e9f02a?source=rss-c69a7b7ed0c5------2)
-- [Unlocking observability: Structured logging in Spring Boot](https://medium.com/booking-com-development/unlocking-observability-structured-logging-in-spring-boot-c81dbabfb9e7?source=rss-c69a7b7ed0c5------2)
-- [Deep-dive on mTLS with Redis on GCP](https://mourjo.medium.com/building-a-secure-web-chat-with-redis-mtls-and-gcp-e52007ba362d?source=rss-c69a7b7ed0c5------2)
-- [Load Shedding in Clojure](https://medium.com/helpshift-engineering/load-shedding-in-clojure-d4857ce11588?source=rss-c69a7b7ed0c5------2)
-- [Load Shedding in Web Services](https://medium.com/helpshift-engineering/load-shedding-in-web-services-9fa8cfa1ffe4?source=rss-c69a7b7ed0c5------2)
-- [The Convoluted Magic of Leiningen Test Selectors](https://medium.com/helpshift-engineering/the-convoluted-magic-of-leiningen-test-selectors-2eb6c452dfcf?source=rss-c69a7b7ed0c5------2)
-- [Killing me softly: Graceful shutdowns in Clojure](https://medium.com/helpshift-engineering/achieving-graceful-restarts-of-clojure-services-b3a3b9c1d60d?source=rss-c69a7b7ed0c5------2)
-- [On the testability of Ring Middlewares in Clojure](https://medium.com/helpshift-engineering/on-the-testability-of-ring-middlewares-in-clojure-6795eae60f2a?source=rss-c69a7b7ed0c5------2)
-- [A Study in Parallelising Tests](https://medium.com/helpshift-engineering/a-study-in-parallelising-tests-b5253817beae?source=rss-c69a7b7ed0c5------2)
-- [ScyllaDB: The Helpshift Story](https://medium.com/helpshift-engineering/scylladb-the-helpshift-story-3d332bf80ce2?source=rss-c69a7b7ed0c5------2)
-- [A detailed comparison between autocompletion strategies in ElasticSearch](https://mourjo.medium.com/a-detailed-comparison-between-autocompletion-strategies-in-elasticsearch-66cb9e9c62c4)
-<!-- BLOG-POST-LIST:END -->
+I've previously spent time at Stripe, Gojek, and Helpshift. I have a masters from Inria (2015) and a particular fondness for combining functional programming patterns with Java.
 
-➡️ &nbsp; [More blog posts...](http://mourjo.me/blog)
+### Talks
+
+- [Resilience in Microservices with Congestion Control](https://www.youtube.com/watch?v=vg9lmdKtpLM) — Amsterdam, Nov 2025
+- [Diagram driven development](https://www.youtube.com/watch?v=IzhJtzmXt0c) — Copenhagen, Oct 2025
+- [Untangling the API Spaghetti With BPMN Diagrams](https://www.youtube.com/watch?v=NGYX0r8dha0) — Bangalore, Oct 2025
+- [Avoiding Accidental Quality with Property Based Tests](https://www.youtube.com/watch?v=8ONG4nJdNXg) — Online, Sep 2025
+- [Property Based Testing to Preserve Invariants](https://www.youtube.com/watch?v=5tCzdkPPX_s) — Hamburg, Jul 2025
+- [What Flow Metrics Teaches Us About Designing Resilient Systems](https://www.youtube.com/watch?v=aDqtSvORFJc) — Online, Mar 2025
+- [Building Resilient Services in Clojure](https://www.youtube.com/watch?v=hII32IRXbAE) — Online, Dec 2021
+- [Writing a fair task execution framework](https://www.youtube.com/watch?v=oonmTibQgLo) — Pune, Feb 2019
+
+### Blogs
+
+- [Beyond Accidental Quality: Finding Hidden Bugs with Generative Testing](https://www.infoq.com/articles/generative-testing/) — InfoQ, Oct 2025
+- [Applying Flow Metrics to Design Resilient Microservices](https://www.infoq.com/articles/flow-metrics-microservices/) — InfoQ, Mar 2025
+- [Three Reasons Why Developers should use DuckDB](https://mourjo.medium.com/three-reasons-why-developers-should-use-duckdb-0884c8e9f02a?source=mourjo.me) — Towards Data Science, Jul 2024
+- [Unlocking Observability: Structured logging in Spring Boot](https://medium.com/booking-com-development/unlocking-observability-structured-logging-in-spring-boot-c81dbabfb9e7?source=mourjo.me) — Booking.com, Mar 2024
+- [Deep-dive on mTLS with Redis on GCP](https://mourjo.medium.com/building-a-secure-web-chat-with-redis-mtls-and-gcp-e52007ba362d?source=mourjo.me) — Medium, Feb 2023
+- [Load Shedding in Clojure](https://mourjo.medium.com/load-shedding-in-clojure-d4857ce11588?source=mourjo.me) — Medium, Sep 2020
+
+➡️ &nbsp; [More blog posts...](https://mourjo.medium.com)
 
 ### Contact me at:
 
