@@ -29,7 +29,3 @@ I have previously worked at Stripe, Gojek, and Helpshift. I hold a masters from 
 - [Load Shedding in Clojure](https://mourjo.medium.com/load-shedding-in-clojure-d4857ce11588?source=mourjo.me) — Medium, Sep 2020
 
 [More blog posts](https://mourjo.medium.com)
-
-### Contact me at:
-
-[<img width="26px" src="https://img.icons8.com/wired/64/000000/medium-new.png"/>](https://mourjo.medium.com) [<img width="26px" src="https://img.icons8.com/fluent/48/000000/github.png"/>](https://github.com/mourjo) [<img width="26px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>](https://twitter.com/mourjo_sen) [<img width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](http://in.linkedin.com/in/mourjo) [<img width="26px" src="https://img.icons8.com/ios-filled/50/000000/mobile-email.png"/>](mailto:hello@mourjo.me)
