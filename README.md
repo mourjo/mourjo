@@ -1,6 +1,6 @@
 ![Banner](https://mourjo.me/resources/images/banner.jpg)
 
-### Bonjour! 👋
+# Bonjour! 👋
 
 I'm a Staff Software Engineer at Booking.com in Amsterdam and a software artisan at heart. I grew up in India and found my calling for software engineering while living in France.
 
@@ -8,7 +8,7 @@ I speak and write about resilient microservices, property-based testing, and Dia
 
 I have previously worked at Stripe, Gojek, and Helpshift. I hold a masters from Inria (the national research institute in France) and enjoy bridging the gap between functional programming and Java.
 
-### Talks
+# Talks
 
 - [Resilience in Microservices with Congestion Control](https://www.youtube.com/watch?v=vg9lmdKtpLM) — Amsterdam, Nov 2025
 - [Diagram driven development](https://www.youtube.com/watch?v=IzhJtzmXt0c) — Copenhagen, Oct 2025
@@ -21,7 +21,7 @@ I have previously worked at Stripe, Gojek, and Helpshift. I hold a masters from 
 
 [More talks](https://mourjo.me/talks)
 
-### Blogs
+# Blogs
 
 - [Beyond Accidental Quality: Finding Hidden Bugs with Generative Testing](https://www.infoq.com/articles/generative-testing/) — InfoQ, Oct 2025
 - [Applying Flow Metrics to Design Resilient Microservices](https://www.infoq.com/articles/flow-metrics-microservices/) — InfoQ, Mar 2025
@@ -30,4 +30,4 @@ I have previously worked at Stripe, Gojek, and Helpshift. I hold a masters from 
 - [Deep-dive on mTLS with Redis on GCP](https://mourjo.medium.com/building-a-secure-web-chat-with-redis-mtls-and-gcp-e52007ba362d?source=mourjo.me) — Medium, Feb 2023
 - [Load Shedding in Clojure](https://mourjo.medium.com/load-shedding-in-clojure-d4857ce11588?source=mourjo.me) — Medium, Sep 2020
 
-[More blog posts](https://mourjo.medium.com)
+[More blog posts](https://mourjo.me/blog)
